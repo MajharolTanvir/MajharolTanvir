@@ -1,8 +1,6 @@
 ![A Full-Stack Developer](https://media.licdn.com/dms/image/D5616AQEiOgdKXXEzAA/profile-displaybackgroundimage-shrink_350_1400/0/1675865947769?e=1692835200&v=beta&t=mc9Ul0487XSRinaapg87zL48x1-wRr8icSHcjRnNcaE)
 <h1 align="center">Hi there 👋, my name is Majharul Tanvir</h1>
-<h3 align="center">A Full-Stack DeveloperWordPress, Wix, and Squarespace expert</h3>
-
-A passionate, determined, and proactive Full-stack developer with WordPress, Wix, and Squarespace expert from Bangladesh.
+<h3 align="center">A passionate, determined, and proactive Full-stack developer with WordPress, Wix, and Squarespace expert from Bangladesh.</h3>
 
 <img  align="right" alt="Coding" width="400"  src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"></img>
 
