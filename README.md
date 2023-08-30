@@ -1,5 +1,5 @@
-<a href='https://www.facebook.com/MajharolTanvir'>
-    <img src='./utilities/majharoltanvir.gif' />
+<a href='https://www.facebook.com/MajharolTanvir' target="_blank">
+    <img src='./utilities/majharul tanvir.gif' />
 </a>
 
 
