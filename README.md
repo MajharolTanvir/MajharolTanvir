@@ -98,7 +98,7 @@
 
 
 
-## GitHub Trophies
+## :trophy: GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=MajharolTanvir&theme=juicyfresh&no-bg=true" />
 
