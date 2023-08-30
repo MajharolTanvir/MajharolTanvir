@@ -24,7 +24,7 @@
 ## :white_check_mark: Current overview
 
 <div align="left">
-    <a href="https://app.daily.dev/majharultanvir"><img src="https://api.daily.dev/devcards/88ea88b002a74397bf1b9acb861a9398.png?r=3gh" width="200" alt="Majharul Tanvir's Dev Card"/>
+    <a href="https://app.daily.dev/majharultanvir"><img align='right' src="https://api.daily.dev/devcards/88ea88b002a74397bf1b9acb861a9398.png?r=3gh" width="200" alt="Majharul Tanvir's Dev Card"/>
     </a>
 </div>
 
