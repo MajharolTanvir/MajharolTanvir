@@ -1,8 +1,23 @@
 <a href='https://www.facebook.com/MajharolTanvir' target="_blank" width='100vh' >
-    <img src='./utilities/@majharoltanvir.gif' />
+    <img src='./utilities/majharoltanvir.gif' />
 </a>
 
+## :chart_with_upwards_trend: Current Stats
 
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MajharoloTanvir&card_width=500&ring=4477CE&fire=4477CE&currStreakNum=4477CE&sideNums=4477CE&border=512B8145&currStreakLabel=8CABFF&sideLabels=8CABFF&dates=8CABFF&excludeDaysLabel=8CABFF&background=50%2C512B81%2C35155D&stroke=512B81" />
+</p>
+
+## :mailbox: Reach me out
+
+<br />
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+
+<br />
+
+
+--------------------------------------
 
 ![A Full-Stack Developer](https://media.licdn.com/dms/image/D5616AQEiOgdKXXEzAA/profile-displaybackgroundimage-shrink_350_1400/0/1675865947769?e=1692835200&v=beta&t=mc9Ul0487XSRinaapg87zL48x1-wRr8icSHcjRnNcaE)
 <h1 align="center">Hi there 👋, my name is Majharul Tanvir</h1>
