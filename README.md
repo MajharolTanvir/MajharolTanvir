@@ -91,7 +91,7 @@
 <br />
 
 
-<div>
+<div height='500'>
     <img align="left" alt="Coding" width="350"  src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"></img>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=MajharolTanvir&show_icons=true&bg_color=45%2C35155D%2C512B81&show=reviews,prs_merged,prs_merged_percentage&title_color=FFF&text_color=fff&border_color=2C35155D" width="460" alt=""/>
 </div>
