@@ -45,7 +45,7 @@
 
 
 
-## :computer: Languages
+## :computer: Technologies that I know
 
 <br/>
 
