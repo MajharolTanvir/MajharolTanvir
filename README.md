@@ -57,13 +57,13 @@
 
 <br/>
 
-<p align="center">
-<img background="white" src="./utilities/technologies/HTML.png"/>
-<img background="white" src="./utilities/technologies/CSS.png"/>
-<img background="white" src="./utilities/technologies/Bootstrap.png"/>
-<img background="white" src="./utilities/technologies/tailwind.png"/>
-<img background="white" src="./utilities/technologies/9.png"/>
-<img background="white" src="./utilities/technologies/daisyUi.png"/>
-<img background="white" src="./utilities/technologies/js.png"/>
-<img background="white" src="./utilities/technologies/typescript.png"/>
+<p background="white" align="center">
+<img src="./utilities/technologies/HTML.png"/>
+<img src="./utilities/technologies/CSS.png"/>
+<img src="./utilities/technologies/Bootstrap.png"/>
+<img src="./utilities/technologies/tailwind.png"/>
+<img src="./utilities/technologies/9.png"/>
+<img src="./utilities/technologies/daisyUi.png"/>
+<img src="./utilities/technologies/js.png"/>
+<img src="./utilities/technologies/typescript.png"/>
 </p>
