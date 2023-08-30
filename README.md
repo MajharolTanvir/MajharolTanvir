@@ -41,11 +41,10 @@
 <br/>
 
 ## :golf: Current Stats
-<br/>
 
 
 <div>
-    <img  align="left" alt="Coding" width="400"  src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"></img>
+    <img  align="left" alt="Coding" width="370"  src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"></img>
 </div>
 
 <div>
@@ -53,8 +52,8 @@
 </div>
 
 
-<br/>
 
+<br/>
 
 ----
 <h3 align="left">Languages and Tools:</h3>
