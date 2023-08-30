@@ -49,9 +49,21 @@
 
 <div>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=MajharolTanvir&show_icons=true&bg_color=45%2C35155D%2C512B81&show=reviews,prs_merged,prs_merged_percentage&title_color=FFF&text_color=fff&border_color=2C35155D" width="460" alt=""/>
-</div>
+</div><br/>
 
-<hr/>
+
 
 ## :computer: Languages and Tools
+
 <br/>
+
+<p align="center">
+<img src="./utilities/technologies/HTML.png"/>
+<img src="./utilities/technologies/CSS.png"/>
+<img src="./utilities/technologies/Bootstrap.png"/>
+<img src="./utilities/technologies/tailwind.png"/>
+<img src="./utilities/technologies/9.png"/>
+<img src="./utilities/technologies/daisyUi.png"/>
+<img src="./utilities/technologies/js.png"/>
+<img src="./utilities/technologies/typescript.png"/>
+</p>
