@@ -106,3 +106,6 @@
 ### GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=MajharolTanvir&theme=juicyfresh&no-bg=true" />
+
+
+**Page Views**(Counting since 30th Aug 2023): ![Visitor Count](https://profile-counter.glitch.me/MajharolTanvir/count.svg)
