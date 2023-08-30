@@ -1,4 +1,4 @@
-<a href='https://www.facebook.com/MajharolTanvir' target="_blank">
+<a href='https://www.facebook.com/MajharolTanvir' target="_blank" class='width-set' >
     <img src='./utilities/majharul tanvir.gif' />
 </a>
 
