@@ -57,36 +57,45 @@
 
 <br/>
 
-<p background="white" align="center">
-<img src="./utilities/technologies/HTML.png"/>
-<img src="./utilities/technologies/CSS.png"/>
-<img src="./utilities/technologies/Bootstrap.png"/>
-<img src="./utilities/technologies/tailwind.png"/>
-<img src="./utilities/technologies/Antdesign.png"/>
-<img src="./utilities/technologies/daisyUi.png"/>
-<img src="./utilities/technologies/js.png"/>
-<img src="./utilities/technologies/typescript.png"/>
-</p>
 
-
-
-<p background="white" align="center">
+<p align="center">
 <img src='./utilities/logos/HTML.png' />
 <img src='./utilities/logos/CSS.png' />
 <img src='./utilities/logos/Bootstrap.png' />
 <img src='./utilities/logos/tailwind.png' />
 <img src='./utilities/logos/Antdesign.png' />
 <img src='./utilities/logos/daisyUi.png' />
+</p>
+
+<p align="center">
 <img src='./utilities/logos/js.png' />
 <img src='./utilities/logos/typescript.png' />
 <img src='./utilities/logos/react.png' />
+<img src='./utilities/logos/next.js.png' />
+<img src='./utilities/logos/react-router-dom.png' />
+<img src='./utilities/logos/next-auth.png' />
+</p>
+
+<p align="center">
+<img src='./utilities/logos/firebase.png' />
+<img src='./utilities/logos/stripe.png' />
+<img src='./utilities/logos/node.png' />
+<img src='./utilities/logos/express.png' />
+<img src='./utilities/logos/mongodb.png' />
+<img src='./utilities/logos/mongoose.png' />
+</p>
+
+<p align="center">
+<img src='./utilities/logos/sql.png' />
+<img src='./utilities/logos/postgreSQL.png' />
+<img src='./utilities/logos/wordpress.png' />
+<img src='./utilities/logos/elementor.png' />
+<img src='./utilities/logos/wix.png' />
+<img src='./utilities/logos/squarespace.png' />
 </p>
 
 
-<p background="white" align="center">
-<img src='' />
-<img src='' />
-<img src='' />
+<p align="center">
 <img src='' />
 <img src='' />
 <img src='' />
