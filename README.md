@@ -19,7 +19,7 @@
 <br />
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MajharolTanvir&card_width=600&stroke=EBEBEB&ring=EBEBEB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB&background=45%2C35155D%2C512B81&border=512B81" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MajharolTanvir&card_width=700&stroke=EBEBEB&ring=EBEBEB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB&background=45%2C35155D%2C512B81&border=512B81" />
 </p>
 
 ## :white_check_mark: Current overview
@@ -31,9 +31,11 @@
 
 ### 🔭 I’m working - Find work.
 ### 🌱 I’m exploring - Advance backend.
+### 📚 I’m reading - Data structure algorithm.
 ### 👯 I’m looking - To collaborate on open source projects.
 ### 👍 I’m trying - To help people easily learn web development.
 ### 😃 Fun fact - Everyday I start and end with programming.
+
 
 
 
