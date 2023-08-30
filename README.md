@@ -62,8 +62,35 @@
 <img src="./utilities/technologies/CSS.png"/>
 <img src="./utilities/technologies/Bootstrap.png"/>
 <img src="./utilities/technologies/tailwind.png"/>
-<img src="./utilities/technologies/9.png"/>
+<img src="./utilities/technologies/Antdesign.png"/>
 <img src="./utilities/technologies/daisyUi.png"/>
 <img src="./utilities/technologies/js.png"/>
 <img src="./utilities/technologies/typescript.png"/>
+</p>
+
+
+
+<p background="white" align="center">
+<img src='./utilities/logos/HTML.png' />
+<img src='./utilities/logos/CSS.png' />
+<img src='./utilities/logos/Bootstrap.png' />
+<img src='./utilities/logos/tailwind.png' />
+<img src='./utilities/logos/Antdesign.png' />
+<img src='./utilities/logos/daisyUi.png' />
+<img src='./utilities/logos/js.png' />
+<img src='./utilities/logos/typescript.png' />
+<img src='./utilities/logos/react.png' />
+</p>
+
+
+<p background="white" align="center">
+<img src='' />
+<img src='' />
+<img src='' />
+<img src='' />
+<img src='' />
+<img src='' />
+<img src='' />
+<img src='' />
+<img src='' />
 </p>
