@@ -15,10 +15,11 @@
 
 ## :bar_chart: Current Stats
 
+
 <br />
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MajharolTanvir&card_width=500&ring=4477CE&fire=4477CE&currStreakNum=4477CE&sideNums=4477CE&border=512B8145&currStreakLabel=8CABFF&sideLabels=8CABFF&dates=8CABFF&excludeDaysLabel=8CABFF&background=50%2C512B81%2C35155D&stroke=512B81" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MajharolTanvir&card_width=600&stroke=EBEBEB&ring=EBEBEB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB&background=45%2C35155D%2C512B81&border=512B81" />
 </p>
 
 ## :white_check_mark: Current overview
@@ -34,10 +35,13 @@
 ### 👍 I’m trying - To help people easily learn web development.
 ### 😃 Fun fact - Everyday I start and end with programming.
 
+
+
+
 <br/>
 
 
-
+------------------------------------------------
 <img  align="right" alt="Coding" width="400"  src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"></img>
 
 <h3 align="left">Languages and Tools:</h3>
