@@ -107,16 +107,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=MajharolTanvir&theme=juicyfresh&no-bg=true" />
 
-<!--START_SECTION:waka-->
 
-```text
-React.js     11 hrs 23 mins     █████████████████▓░░░░░░░   70.74 %
-JavaScript   2 hrs 29 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.49 %
-HTML         1 hr 3 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-JSON         34 mins            █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-css          24 mins            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Other        4 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-```
-
-
-**Page Views**(Counting since 30th Aug 2023): ![Visitor Count](https://profile-counter.glitch.me/MajharolTanvir/count.svg)
+### :crown: Visitor Count
+<p align="center">
+  <img align="center" alt="Majharul Tanvir" width="40%" src="https://profile-counter.glitch.me/MajharolTanvir/count.svg" />
+</p>
