@@ -15,7 +15,6 @@
 
 ## :bar_chart: Current Stats
 
-<br />
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MajharolTanvir&card_width=700&stroke=EBEBEB&ring=EBEBEB&fire=EBEBEB&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB&background=45%2C35155D%2C512B81&border=512B81" />
