@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=MajharoloTanvir&card_width=500&ring=4477CE&fire=4477CE&currStreakNum=4477CE&sideNums=4477CE&border=512B8145&currStreakLabel=8CABFF&sideLabels=8CABFF&dates=8CABFF&excludeDaysLabel=8CABFF&background=50%2C512B81%2C35155D&stroke=512B81" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=majharoltanvir&card_width=500&ring=4477CE&fire=4477CE&currStreakNum=4477CE&sideNums=4477CE&border=512B8145&currStreakLabel=8CABFF&sideLabels=8CABFF&dates=8CABFF&excludeDaysLabel=8CABFF&background=50%2C512B81%2C35155D&stroke=512B81" />
 </p>
 
 ## :mailbox: Reach me out
