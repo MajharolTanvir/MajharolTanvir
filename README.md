@@ -6,20 +6,23 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=majharoltanvir&card_width=500&ring=4477CE&fire=4477CE&currStreakNum=4477CE&sideNums=4477CE&border=512B8145&currStreakLabel=8CABFF&sideLabels=8CABFF&dates=8CABFF&excludeDaysLabel=8CABFF&background=50%2C512B81%2C35155D&stroke=512B81" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MajharolTanvir&card_width=500&ring=4477CE&fire=4477CE&currStreakNum=4477CE&sideNums=4477CE&border=512B8145&currStreakLabel=8CABFF&sideLabels=8CABFF&dates=8CABFF&excludeDaysLabel=8CABFF&background=50%2C512B81%2C35155D&stroke=512B81" />
 </p>
 
-## :mailbox: Reach me out
+
+## :speech_balloon: Reach me out
 
 <br />
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+
+[<p align="center"><img height="75" src="./utilities/socialLogo/1.png">](https://www.linkedin.com/in/majharoltanvir/)
+[<img height="75" src="./utilities/socialLogo/2.png">](https://www.facebook.com/MajharolTanvir)
+[<img height="75" src="./utilities/socialLogo/3.png">](https://twitter.com/majharol_tanvir)
+[<img height="75" src="./utilities/socialLogo/4.png"></p>](https://www.instagram.com/majharoltanvir/)
 
 <br />
-
 
 --------------------------------------
 
-![A Full-Stack Developer](https://media.licdn.com/dms/image/D5616AQEiOgdKXXEzAA/profile-displaybackgroundimage-shrink_350_1400/0/1675865947769?e=1692835200&v=beta&t=mc9Ul0487XSRinaapg87zL48x1-wRr8icSHcjRnNcaE)
 <h1 align="center">Hi there 👋, my name is Majharul Tanvir</h1>
 <h3 align="center">A passionate, determined, and proactive Full-stack developer with WordPress, Wix, and Squarespace expert from Bangladesh.</h3>
 
