@@ -100,14 +100,12 @@
 
 
 
-### GitHub Trophies
----
+## GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=MajharolTanvir&theme=juicyfresh&no-bg=true" />
 
 
-### :crown: Visitor Count
----
+## :crown: Visitor Count
 
 <p align="center">
   <img align="center" alt="Majharul Tanvir" width="40%" src="https://profile-counter.glitch.me/MajharolTanvir/count.svg" />
