@@ -86,6 +86,12 @@
 
 <br />
 
+
+## :trophy: GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=MajharolTanvir&theme=juicyfresh&no-bg=true" />
+
+
 ## :golf: Current Stats
 
 <br />
@@ -96,11 +102,6 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=MajharolTanvir&show_icons=true&bg_color=45%2C35155D%2C512B81&show=reviews,prs_merged,prs_merged_percentage&title_color=FFF&text_color=fff&border_color=2C35155D" width="460" alt=""/>
 </div>
 
-
-
-## :trophy: GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=MajharolTanvir&theme=juicyfresh&no-bg=true" />
 
 
 ## :crown: Visitor Count
