@@ -1,5 +1,5 @@
 <a href='https://www.majharultanvir.com' target="_blank" width='100vh' >
-    <img src='./utilities/majharoltanvir.gif' />
+    <img src='./utilities/majharul_tanvir.png' />
 </a>
 
 ## :speech_balloon: Reach me out
